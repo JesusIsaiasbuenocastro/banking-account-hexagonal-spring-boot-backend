@@ -136,7 +136,6 @@ La aplicación quedará disponible en `http://localhost:8080`.
 - Autenticación y autorización (Spring Security).
 - Paginación en el historial de transacciones.
 - Tests de integración con Testcontainers.
-- Documentación interactiva con OpenAPI/Swagger.
 
 ## Licencia
 
